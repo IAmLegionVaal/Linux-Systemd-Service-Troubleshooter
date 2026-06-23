@@ -47,6 +47,6 @@ sudo ./src/systemd_service_repair.sh nginx.service --action reset-failed
 
 Disabling a service also stops it and requires confirmation. A unit with invalid configuration, missing dependencies or an application-level failure can still require vendor-specific repair.
 
-## Author
+## Maintainer
 
-Dewald Pretorius — L2 IT Support Engineer
+IAmLegionVaal
